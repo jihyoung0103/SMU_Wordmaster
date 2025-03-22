@@ -13,4 +13,4 @@ public class SmuWordmasterApplication {
 
 }
 
-// 커밋 변경 확인용
+// 커밋 변경 확인용ddd
