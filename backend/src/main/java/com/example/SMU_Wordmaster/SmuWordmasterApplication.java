@@ -10,4 +10,7 @@ public class SmuWordmasterApplication {
 		SpringApplication.run(SmuWordmasterApplication.class, args);
 	}
 
+
 }
+
+// 커밋 변경 확인용
